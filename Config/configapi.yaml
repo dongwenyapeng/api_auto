@@ -1,0 +1,15 @@
+env:
+  hostikapp: 'https://ikapp.health.ikang.com'
+
+request_headers:
+  ikapp-search-headers: {"User-Agent": "","Content-Type": "application/json; charset=UTF-8","Cookie": "APP_SERVICE_SESSION=09812e85-f293-4085-8f67-61fa362899e7; __jsluid_s=47fbe92f730ffeef16c4239571fd2aab; route=49eaa6b2d555beed3c8ab8f2a9843f11", "Postman-Token": "43ac2b15-8967-4dcf-9db8-2a557090b00f"}
+
+mysql_search_activity:
+  host: '10.179.206.252'
+  user: 'wR0e'
+  password: 'hhw5w58eL'
+  port: 4859
+
+
+
+

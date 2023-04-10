@@ -1,0 +1,11 @@
+ikapp_search_api:
+  - title: 'ikapp_search接口成功'
+    uri: '/appService/search/product/v1'
+    json:
+      cityCode: "131"
+      latitude: 40.156656
+      longitude: 116.302147
+      searchText: "测试"
+      orgPageNum: 1
+      pageNum: 1
+    expected: {"code":0,"msg":"OK"}
